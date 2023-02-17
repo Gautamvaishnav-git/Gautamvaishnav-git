@@ -3,6 +3,7 @@
 [Created by Gautam vaishnav](https://gautamvaishnav.netlify.app/)
 
 
+<a href="https://app.daily.dev/Gautam_Vaishnav"><img src="https://api.daily.dev/devcards/ed9005ad59854d04b68228144f2de3b0.png?r=6wj" width="400" alt="Gautam Vaishnav's Dev Card"/></a>
 
 ## 🚀 About Me
 
@@ -40,3 +41,4 @@ If you have any query you can ping me on [LinkedIn](https://www.linkedin.com/in/
 -----
 
 For more Details you can visit my website.
+
