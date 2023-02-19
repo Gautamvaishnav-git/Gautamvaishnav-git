@@ -18,6 +18,7 @@ If you have any query you can ping me on [LinkedIn](https://www.linkedin.com/in/
 ## 🛠 Skills
 
 - Javascript
+- Typescript
 - HTML
 - Css
 - ReactJs (Javascript library)
