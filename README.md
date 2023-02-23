@@ -1,4 +1,4 @@
-![Cover page](https://www.cmarix.com/blog/wp-content/uploads/2020/06/Why-Tech-Stacks-MEAN-and-MERN-are-the-trendiest-in-2020.png "Cover page")
+![Cover page](./MERN.png "Cover page")
 
 <h1 align="center">Hi 👋, I'm Gautam Vaishnav</h1>
 <h3 align="center">A passionate Fulstack web developer from India</h3>
