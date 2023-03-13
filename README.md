@@ -99,14 +99,14 @@
 </p>
 
 <p >
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamvaishnav-git&show_icons=true&locale=en&layout=compact" alt="gautamvaishnav-git" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamvaishnav-git&show_icons=true&locale=en&layout=compact&theme=radical" alt="gautamvaishnav-git" />
 </p>
 
 <p>&nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamvaishnav-git&show_icons=true&locale=en" style="padding: 1rem 0" alt="gautamvaishnav-git" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gautamvaishnav-git&show_icons=true&theme=radical" style="padding: 1rem 0" alt="gautamvaishnav-git" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamvaishnav-git&" alt="gautamvaishnav-git" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Gautamvaishnav-git&theme=gotham&hide_border=true" alt="gautamvaishnav-git" /></p>
 
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Gautamvaishnav-git/Gautamvaishnav-git/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
