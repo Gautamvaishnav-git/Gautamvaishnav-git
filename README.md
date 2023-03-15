@@ -11,20 +11,19 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://gautamvaishnav.netlify.app/](https://gautamvaishnav.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gautamvaishnav.live/](https://gautamvaishnav.live/)
 
 - 📫 How to reach me **gauravvaishnav8690@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; gap:5px; padding: 0.5rem 0">
-
 <p align="left">
-<a href="https://dev.to/gautam vaishnav" target="blank">
+
    <a href="https://linkedin.com/in/gautam vaishnav" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="gautam vaishnav" height="30" width="40" />
    </a>
-
-   <img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="gautam vaishnav" height="30" width="40" />
+<a href="https://dev.to/gautam vaishnav" target="blank">
+   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="gautam vaishnav" height="30" width="40" />
    </a>
 
 <a href="https://hashnode.com/gautam vaishnav" target="blank">
@@ -33,6 +32,15 @@
 <a href="https://discord.gg/Gautam Vaishnav#0057" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Gautam Vaishnav#0057" height="30" width="40" />
    </a>
+   
+   <a href="https://www.instagram.com/gautam__vaishnav__/" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="30" width="40" />
+   </a>
+      
+   <a href="https://twitter.com/Gautam_V_" target="blank">
+   <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="twitter" height="30" width="40" />
+   </a>
+   
 </p>
 </div>
 <table><tr><td valign="top" width="33%">
@@ -82,7 +90,9 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="git hub" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/.github/framer-motion-icon.svg" alt="framer motion" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" height="50" />
-
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/16657091/55263234-8b903300-522d-11e9-9926-44e4b3c17e0a.png" alt="npm" height="50" />
+<img style="margin: 10px" src="https://debricked.com/blog/wp-content/uploads/2021/02/fix-vulns-yarn-min.jpg" alt="yarn" height="50" />
+<img style="margin: 10px" src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" alt="pnpm" height="50" />
 </div>
 
 
