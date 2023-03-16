@@ -98,7 +98,7 @@
 
 </td></tr></table>
 
-### Platforms where I have hoted my projects
+### Platforms where I have hosted my projects
 <p>
 <a href="https://netlify.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify-Dark.svg" alt="netlify" width="40" height="40"/>
