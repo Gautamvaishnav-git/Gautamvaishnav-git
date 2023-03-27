@@ -73,6 +73,8 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" height="50" />
 <img style="margin: 10px" src="https://images.opencollective.com/mongoose/0ff43ec/logo/256.png" alt="mongoose" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="pnpm" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="git hub" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -87,13 +89,11 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs code" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="git hub" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Replit-Dark.svg" alt="git hub" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="git hub" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/main/.github/framer-motion-icon.svg" alt="framer motion" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/16657091/55263234-8b903300-522d-11e9-9926-44e4b3c17e0a.png" alt="npm" height="50" />
 <img style="margin: 10px" src="https://debricked.com/blog/wp-content/uploads/2021/02/fix-vulns-yarn-min.jpg" alt="yarn" height="50" />
 <img style="margin: 10px" src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" alt="pnpm" height="50" />
-   <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="pnpm" height="50" />
 </div>
 
 
