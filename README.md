@@ -93,6 +93,7 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/16657091/55263234-8b903300-522d-11e9-9926-44e4b3c17e0a.png" alt="npm" height="50" />
 <img style="margin: 10px" src="https://debricked.com/blog/wp-content/uploads/2021/02/fix-vulns-yarn-min.jpg" alt="yarn" height="50" />
 <img style="margin: 10px" src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" alt="pnpm" height="50" />
+   <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="pnpm" height="50" />
 </div>
 
 
