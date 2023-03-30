@@ -1,7 +1,7 @@
 <img src="./MERN.png" width="100%" alt="Cover image" />
 
 <h1 align="center">Hi 👋, I'm Gautam Vaishnav</h1>
-<h3 align="center">A passionate Fullstack web developer from India</h3>
+<h3 align="center">A passionate Fullstack web developer.</h3>
 
 <p align="left" style="padding: 1rem 0;"> <img src="https://komarev.com/ghpvc/?username=gautamvaishnav-git&label=Profile%20views&color=0e75b6&style=flat" alt="gautamvaishnav-git" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Freezone Ecommerce App](https://github.com/Gautamvaishnav-git/Ecommerce)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://gautamvaishnav.live/](https://gautamvaishnav.live/)
 
