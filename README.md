@@ -51,6 +51,8 @@
 ### Frontend
 <div align="center">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="mui" height="50" />
+</div>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" alt="sass" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" height="50" />
@@ -60,6 +62,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MaterialUI-Dark.svg" alt="mui" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg" alt="mui" height="50" />
 </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -120,4 +123,4 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Gautamvaishnav-git&theme=gotham&hide_border=true" alt="gautamvaishnav-git" /></p>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Gautamvaishnav-git/Gautamvaishnav-git/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/Gautam_Vaishnav"><img src="https://api.daily.dev/devcards/ed9005ad59854d04b68228144f2de3b0.png?r=6rc" width="400" alt="Gautam Vaishnav's Dev Card"/></a>
