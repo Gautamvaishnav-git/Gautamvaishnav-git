@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamvaishnav-git&theme=onedark" alt="gautamvaishnav-git" /></a> </p>
 
-- 🔭 I’m currently working on [Freezone Ecommerce App](https://github.com/Gautamvaishnav-git/Ecommerce)
+- 🔭 I’m currently working as a intern at [Kainskep it](https://kainskep.com/)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning about **ELK stack**
 
 - 👨‍💻 All of my projects are available at [https://gautamvaishnav.live/](https://gautamvaishnav.live/)
 
