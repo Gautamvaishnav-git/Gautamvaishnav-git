@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning about **ELK stack**
 
-- 👨‍💻 All of my projects are available at [https://gautamvaishnav.netlify.app/](https://gautamvaishnav.live/)
+- 👨‍💻 All of my projects are available at [https://gautamvaishnav.netlify.app/](https://gautamvaishnav.netlify.app/)
 
 - 📫 How to reach me **gauravvaishnav8690@gmail.com**
 
