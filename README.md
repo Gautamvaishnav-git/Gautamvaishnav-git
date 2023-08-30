@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a intern at [Kainskep it](https://kainskep.com/)
 
-- 🌱 I’m currently learning about **ELK stack**
+- 🌱 I’m currently learning more about **Databases**
 
 - 👨‍💻 All of my projects are available at [https://gautamvaishnav.netlify.app/](https://gautamvaishnav.netlify.app/)
 
@@ -81,6 +81,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg" alt="git hub" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sequelize-Dark.svg" alt="git hub" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" alt="git hub" height="50" />
+<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="git hub" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
