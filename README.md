@@ -1,4 +1,4 @@
-<img src="./MERN.png" width="100%" alt="Cover image" />
+<img src="./developer.webp" width="100%" alt="Cover image" />
 
 <h1 align="center">Hi 👋, I'm Gautam Vaishnav</h1>
 <h3 align="center">A passionate Fullstack web developer.</h3>
