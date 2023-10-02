@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamvaishnav-git&theme=onedark" alt="gautamvaishnav-git" /></a> </p>
 
-- 🔭 I’m currently working as a intern at [Kainskep it](https://kainskep.com/)
+- 🔭 I’m currently working as a Junior associate at [Kainskep it Solutions](https://kainskep.com/)
 
-- 🌱 I’m currently learning more about **Databases**
+- 🌱 I’m currently learning more about **web technologies and designs patterns**
 
-- 👨‍💻 All of my projects are available at [https://gautamvaishnav.netlify.app/](https://gautamvaishnav.netlify.app/)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/Gautamvaishnav-git)
 
 - 📫 How to reach me **gauravvaishnav8690@gmail.com**
 
