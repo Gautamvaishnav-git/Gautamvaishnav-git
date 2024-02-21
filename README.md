@@ -128,4 +128,4 @@
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Gautamvaishnav-git&theme=gotham&hide_border=true" alt="gautamvaishnav-git" /></p>
 
 
-<a href="https://app.daily.dev/Gautam_Vaishnav"><img src="https://api.daily.dev/devcards/ed9005ad59854d04b68228144f2de3b0.png?r=6rc" width="400" alt="Gautam Vaishnav's Dev Card"/></a>
+<a href="https://app.daily.dev/gautam_vaishnav"><img src="./devcard.png" width="356" alt="Gautam's Dev Card"/></a>
