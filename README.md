@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamvaishnav-git&theme=onedark" alt="gautamvaishnav-git" /></a> </p>
 
-- 🔭 I’m currently working as a Junior associate at [Kainskep it Solutions](https://kainskep.com/)
+- 🔭 I’m currently working as a Full Stack Developer
 
 - 🌱 I’m currently learning more about **web technologies and designs patterns**
 
